@@ -33,12 +33,12 @@ const Hero = () => {
       <div className="container relative px-4 sm:px-6 flex flex-col justify-between h-full">
         <div className="relative z-1 max-w-[62rem] mx-auto text-center mb-4 sm:mb-8 md:mb-20 lg:mb-[6.25rem]">
           <h1 className="h1 mb-6 h2 text-p4 max-lg:mb-7 max-lg:h3 max-md:mb-4 max-md:text-3xl max-md:leading-10 max-sm:text-2xl max-sm:leading-8">
-11<sup>th</sup> MIDDLE EAST ENTERPRISE<br/>
+12<sup>th</sup> MIDDLE EAST ENTERPRISE<br/>
             AI & ANALYTICS SUMMIT
           </h1>
           <h5 className="tagline font-extrabold text-xs sm:text-base mb-3 sm:mb-6 text-center text-n-1">
             {/* Updated location */}
-            <i className="fa-solid fa-location-dot"></i> Muscat, Oman            <br/>
+            <i className="fa-solid fa-location-dot"></i> kuwait city, Kuwait           <br/>
             {/* Updated date */}
             <i className="fa-solid fa-calendar"></i> November 13th , Thursday, 2025
           </h5>
